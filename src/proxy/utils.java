@@ -46,7 +46,7 @@ public class utils {
 			}else {
 				//such as : as.js?ver=20170101
 				if(url.contains("?")){
-					String[] urls = url.split("?");
+					String[] urls = url.split("\\?");
 					isblackext(urls[0]);
 				}
 			}
