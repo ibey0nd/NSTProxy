@@ -8,4 +8,4 @@
 
 
 ### 详细细节参考博客 
-http://www.itwzw.cn/burpsuite-ext-save-httplog/
+https://www.beysec.com/security/burpsuite-ext-save-httplog.html
